@@ -7,7 +7,7 @@
 立ち絵：akihiyo様
 
 # ダウンロード・インストール
-[最新バージョン](https://github.com/tanazun/LineMarchEffect/releases)からダウンロードしてください。
+[最新バージョン](https://github.com/tanazun/LineMarchEffect/releases/latest) からダウンロードしてください。
 
 # 使い方
 初めて使う方は、以下の動画を見ることをおすすめします。  
@@ -16,6 +16,7 @@
 
 また、更新した際に作成した概要動画(Xのポスト)も参考になると思います。
 - Ver1.1.0：https://x.com/tanazun0/status/2035294826489602511
+- Ver1.2.0：https://x.com/tanazun0/status/2038175799187255458
 
 # 利用に当たり
 - 商用・非商用問わず利用できます。
@@ -38,6 +39,7 @@
 # 変更履歴
 - 2026-03-29　Ver1.2.0 公開
   - 往復移動する機能を追加。
+  - 変更点をまとめた動画(Xのポスト)：https://x.com/tanazun0/status/2038175799187255458
 - 2026-03-21　Ver1.1.0 公開
   - 移動方向に合わせて左右反転する機能を追加。
   - 変更点をまとめた動画(Xのポスト)：https://x.com/tanazun0/status/2035294826489602511
